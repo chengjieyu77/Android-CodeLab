@@ -38,9 +38,9 @@ com.example.affirmations.app-core-ktx-1.10.1-36 /Users/yuyu/.gradle/caches/trans
 com.example.affirmations.app-foundation-1.4.3-37 /Users/yuyu/.gradle/caches/transforms-3/e0faa4b74d0c9d5f401b5a631467d634/transformed/foundation-1.4.3/res
 com.example.affirmations.app-material-1.4.3-38 /Users/yuyu/.gradle/caches/transforms-3/e356fb2c465fcb379e3a76534956f312/transformed/material-1.4.3/res
 com.example.affirmations.app-ui-text-1.4.3-39 /Users/yuyu/.gradle/caches/transforms-3/eec140d30a234521e476e3e227234961/transformed/ui-text-1.4.3/res
-com.example.affirmations.app-resValues-40 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations-starter/app/build/generated/res/resValues/debug
-com.example.affirmations.app-packageDebugResources-41 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations-starter/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.affirmations.app-packageDebugResources-42 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations-starter/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.affirmations.app-merged_res-43 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations-starter/app/build/intermediates/merged_res/debug
-com.example.affirmations.app-debug-44 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations-starter/app/src/debug/res
-com.example.affirmations.app-main-45 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations-starter/app/src/main/res
+com.example.affirmations.app-resValues-40 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations/app/build/generated/res/resValues/debug
+com.example.affirmations.app-packageDebugResources-41 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.affirmations.app-packageDebugResources-42 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.affirmations.app-merged_res-43 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations/app/build/intermediates/merged_res/debug
+com.example.affirmations.app-debug-44 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations/app/src/debug/res
+com.example.affirmations.app-main-45 /Users/yuyu/Downloads/codelab/basic-android-kotlin-compose-training-affirmations/app/src/main/res
