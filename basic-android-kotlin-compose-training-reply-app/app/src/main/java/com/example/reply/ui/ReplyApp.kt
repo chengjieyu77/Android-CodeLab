@@ -33,19 +33,25 @@ fun ReplyApp(
     val viewModel: ReplyViewModel = viewModel()
     val replyUiState = viewModel.uiState.collectAsState().value
     var navigationType = ReplyNavigationType.BOTTOM_NAVIGATION
+    val contentType: ReplyContentType
+
 
     when(windowSize){
         WindowWidthSizeClass.Compact -> {
             navigationType = ReplyNavigationType.BOTTOM_NAVIGATION
+            contentType = ReplyContentType.LIST_ONLY
         }
         WindowWidthSizeClass.Medium ->{
             navigationType = ReplyNavigationType.NAVIGATION_RAIL
+            contentType = ReplyContentType.LIST_ONLY
         }
         WindowWidthSizeClass.Expanded ->{
             navigationType = ReplyNavigationType.PERMANENT_NAVIGATION_DRAWER
+            contentType = ReplyContentType.LIST_AND_DETAIL
         }
         else ->{
             navigationType = ReplyNavigationType.BOTTOM_NAVIGATION
+            contentType = ReplyContentType.LIST_ONLY
         }
     }
 
